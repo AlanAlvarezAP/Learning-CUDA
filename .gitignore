@@ -9,6 +9,8 @@
 .vs/
 *.VC.db
 *.VC.opendb
+*.vcxproj
+*.vcxproj.user
 
 # Compilación
 Debug/
