@@ -4,3 +4,40 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Compilación
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+out/
+
+# Archivos temporales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Caché de IntelliSense
+ipch/
+*.ipch
+
+# CMake
+CMakeSettings.json
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
